@@ -11,7 +11,7 @@ const TopBar = () => (
     </div>
     <div className="flex gap-3 pe-16">
       <p>News & Media</p>
-      <p>FAQ'S</p>
+      <p>FAQ</p>
     </div>
   </div>
 );
